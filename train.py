@@ -7,7 +7,7 @@ from eval import Evaluator
 from util.visualizer import Visualizer
 from training.gan_trainer import GANTrainer
 from training.dataset import create_dataloader, yield_data
-
+#prueba
 
 def training_loop():
     torch.backends.cudnn.benchmark = True
